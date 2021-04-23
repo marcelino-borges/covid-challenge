@@ -1,2 +1,4 @@
-# covid-challenge
-Game made in 2 weeks, as a challenge about Covid-19.
+# About
+
+- Game developed in C++ and blueprints for a job selection.
+- Endless runner, subway surfer like
